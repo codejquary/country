@@ -1,0 +1,11 @@
+{
+  "name": "codejquary",
+  "version": "3.7.1",
+  "description": "",
+  "main": "icon.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
